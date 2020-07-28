@@ -29,11 +29,7 @@ const writeNotes = () => {
     });
 };
 
-//Server listening 
-app.listen(PORT, () => {
-    readNotes();
-    console.log(`Listening on PORT ${PORT}`);
-});
+
 
 // HTML Routes
 app.get("/", (req, res) => {
@@ -82,3 +78,8 @@ app.delete("/api/notes/:id", (req, res) => {
     res.json(foundNote);
 })
 
+//Server listening 
+app.listen(PORT, () => {
+    readNotes();
+    console.log(`Listening on PORT ${PORT}`);
+});
