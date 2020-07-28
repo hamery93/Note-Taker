@@ -25,9 +25,9 @@ N/A
 
 Run app.js in terminal to kick on server functionality and use the application.
 
-![app screen shot](https://github.com/hamery93/Employee-Summary/blob/master/Assets/cardScreenshot.jpg)
+![app screen shot](https://github.com/hamery93/Note-Taker/blob/master/Develop/public/assets/Screenshots/appScreenshot.jpg)
 
-![animatedGIF](https://github.com/hamery93/Employee-Summary/blob/master/Assets/nodeScreenshot.gif)
+![animatedGIF](https://github.com/hamery93/Note-Taker/blob/master/Develop/public/assets/Screenshots/animatedGIF.gif)
 
     
 ## License
